@@ -1,1 +1,2 @@
 D:\git\wwm\WerWirdMillionaer\bin\Debug\WerWirdMillionaer.exe.config
+D:\git_projects\wwm\WerWirdMillionaer\bin\Debug\WerWirdMillionaer.exe.config
