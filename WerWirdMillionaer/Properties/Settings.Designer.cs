@@ -33,5 +33,15 @@ namespace WerWirdMillionaer.Properties {
                 return ((string)(this["qstndbConnectionString"]));
             }
         }
+        
+        [global::System.Configuration.ApplicationScopedSettingAttribute()]
+        [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
+        [global::System.Configuration.SpecialSettingAttribute(global::System.Configuration.SpecialSetting.ConnectionString)]
+        [global::System.Configuration.DefaultSettingValueAttribute("Data Source=HENRIK-PC\\SQLSERVER;Initial Catalog=qstnDB;Integrated Security=True")]
+        public string qstnSQLDBConnectionString {
+            get {
+                return ((string)(this["qstnSQLDBConnectionString"]));
+            }
+        }
     }
 }

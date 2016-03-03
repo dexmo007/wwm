@@ -1,2 +1,12 @@
 D:\git\wwm\WerWirdMillionaer\bin\Debug\WerWirdMillionaer.exe.config
 D:\git_projects\wwm\WerWirdMillionaer\bin\Debug\WerWirdMillionaer.exe.config
+D:\git_projects\wwm\WerWirdMillionaer\bin\Debug\WerWirdMillionaer.exe
+D:\git_projects\wwm\WerWirdMillionaer\bin\Debug\WerWirdMillionaer.pdb
+D:\git_projects\wwm\WerWirdMillionaer\obj\Debug\WerWirdMillionaer.csprojResolveAssemblyReference.cache
+D:\git_projects\wwm\WerWirdMillionaer\obj\Debug\WerWirdMillionaer.MainForm.resources
+D:\git_projects\wwm\WerWirdMillionaer\obj\Debug\WerWirdMillionaer.Properties.Resources.resources
+D:\git_projects\wwm\WerWirdMillionaer\obj\Debug\WerWirdMillionaer.csproj.GenerateResource.Cache
+D:\git_projects\wwm\WerWirdMillionaer\obj\Debug\WerWirdMillionaer.exe
+D:\git_projects\wwm\WerWirdMillionaer\obj\Debug\WerWirdMillionaer.pdb
+D:\git_projects\wwm\WerWirdMillionaer\obj\Debug\WerWirdMillionaer.CreatorForm.resources
+D:\git_projects\wwm\WerWirdMillionaer\obj\Debug\WerWirdMillionaer.NewQuestionForm.resources
