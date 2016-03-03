@@ -25,7 +25,7 @@ namespace WerWirdMillionaer
             // update the data grid view
             var gridTable = ((CreatorForm) Owner).qstnDBDataSet.Question;
             questionTableAdapter.Fill(gridTable);
-            Dispose();
+            Close();
         }
     }
 }
